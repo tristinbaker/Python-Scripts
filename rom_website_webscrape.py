@@ -61,7 +61,7 @@ for i in range(3203, 9755):
     download_url = 'REDACTED' % (quoted_mediaId, quoted_t1, quoted_t2)
 
     headers = {
-        'Host': 'download2.vimm.net',
+        'Host': 'REDACTED',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.5',
